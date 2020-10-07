@@ -1,7 +1,6 @@
 ---
 layout: page 
 title: Home
-permalink: /home/
 ---
 
 ## Nature-Inspired Intelligence at the service of Nature-Inspired Intelligence
