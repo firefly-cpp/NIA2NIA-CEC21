@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: default 
 title: Importand Dates
 permalink: /important-dates/
 ---
