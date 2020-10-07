@@ -1,8 +1,3 @@
----
-layout: page 
-title: Home
----
-
 ## Nature-Inspired Intelligence at the service of Nature-Inspired Intelligence
 
 ### Overview:
