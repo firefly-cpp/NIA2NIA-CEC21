@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-## Nature-Inspired Intelligence at the service of Nature-Inspired Intelligence
-
 ### Overview:
 <p align="justify">
 The last decade, the number of new stochastic nature-inspired algorithms has grown exponentially. The majority of these algorithms does not consist of a new optimization approach, but seems a lot similar to established ones, like Particle Swarm Optimization (PSO), Ant Colony Optimization (ACO) or Differential Evolution (DE). In contrast, a few studies noted this fact and suggested to hybridize and adapt the existing techniques instead of looking for a new inspiration. On that basis, a good practice would be to use the mechanisms of an algorithm to enhance the performance or to overcome the drawbacks of another one. For example, the scatter mechanism of Mine Blast Algorithm could be used to enhance diversification of solutions of PSO, in order to overcome trapping in local optima.
