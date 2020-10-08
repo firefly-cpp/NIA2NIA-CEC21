@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-NIA2NIA-CEC21 is a Special session organized in the [2021 IEEE Congress on Evolutionary Computation (CEC2021)](https://cec2021.mini.pw.edu.pl/).
+NIA2NIA-CEC2021 is a Special session organized in the [2021 IEEE Congress on Evolutionary Computation (CEC2021)](https://cec2021.mini.pw.edu.pl/).
 
 ### Organizers:
 **Alexandros Tzanetos** (atzanetos@aegean.gr)<br/>
