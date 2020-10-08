@@ -1,0 +1,52 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    color: $header-heading-color;
+    text-align: center;
+    background-color: #ffffff;
+    background-image: none;
+
+    img {
+        width: 54rem;
+    }
+
+    @include large {
+        padding: 0;
+    }
+
+    @include medium {
+        padding: 0;
+    }
+
+    @include small {
+        padding: 0;
+    }
+}
+
+nav {
+    width: 54rem;
+    margin: auto;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul#navbar li{
+    display: inline;
+    padding: 0 1em;
+
+    a {
+        color: #159957;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: #0b6f3d;
+    }
+}
