@@ -3,4 +3,16 @@ title: Nature-Inspired Intelligence at the service of Nature-Inspired Intelligen
 subtitle: Special Session in CEC2021
 
 # header image for the site
-header: images/banner_NIA2NIA_draft.png
+banner: /banner_NIA2NIA_draft.png
+
+# footer image
+footer: /IEEE_CEC_2021_logo_full_23.jpg
+
+navigation:
+
+  - title: Home
+    url: /
+  - title: Important dates
+    url: /important-dates
+  - title: About
+    url: /about
