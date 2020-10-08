@@ -1,6 +1,6 @@
 - title: Home
-  path: /
+  url: /
 - title: Importand Dates
-  path: /important-dates/
+  url: /important-dates/
 - title: About
-  path: /about/
+  url: /about/
