@@ -11,6 +11,8 @@
 
     img {
         width: 54rem;
+        margin: auto;
+        display: block;
     }
 
     @include large {

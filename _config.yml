@@ -1,6 +1,8 @@
+baseurl: https://firefly-cpp.github.io/NIA2NIA-CEC21
+
 theme: jekyll-theme-cayman
 title: Nature-Inspired Intelligence at the service of Nature-Inspired Intelligence
-subtitle: Special Session in CEC2021
+subtitle: Special Session on CEC2021
 
 # header image for the site
 banner: https://raw.githubusercontent.com/firefly-cpp/NIA2NIA-CEC21/main/banner_NIA2NIA_draft.png
