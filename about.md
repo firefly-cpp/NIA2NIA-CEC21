@@ -24,13 +24,16 @@ He is a member of the Editorial Board of Data in Brief Journal and also, serves 
 He is a member of the Hellenic Association of Artificial Intelligence (EETN), the Technical Chamber of Greece (TEE), the Economic Chamber of Greece (ΟΕΕ), the EURO Working Group on Metaheuristics (EU/ME) and also, the Panhellenic Association of Financial and Management Engineers.
 </p>
 
-**Iztok Fister Jr.** (iztok.fister1@um.si)<br/>
+**[Iztok Fister Jr.](http://www.iztok-jr-fister.eu/)** (iztok.fister1@um.si)<br/>
 Faculty of Electrical Engineering and Computer Science,<br/>
 University of Maribor<br/>
 
 <p align="justify">
-Iztok Fister Jr. received a B.Sc, M. Sc. and PhD in computer science from the University of Maribor, Slovenia. Currently, he is an Assistant Professor at the University of Maribor.
+Iztok Fister Jr. received a B.Sc (2011) and MEng in Computer Science (2013), Master of Bioinformatics (2019) and PhD in Computer Science (2017) from the University of Maribor, Slovenia. Since 2017, he has been a Teaching Assistant with the Laboratory for Information Systems at the Faculty of Electrical Engineering and Computer Science, University of Maribor. In 2018, he was promoted to Assistant Professor.
 </p>
 <p align="justify">
-His areas of interest include Data Mining, Pervasive Computing, Optimization and Sport Science. Iztok has published more than 120 research articles in referred journals, conferences and book chapters. Furthermore, he is a member of the editorial boards of 5 different international journals including Data in Brief, International Journal of Bio-Inspired Computation, and associate editor of Expert Systems with Applications.
+His areas of interest include Data Mining, Nature-inspired Algorithms for Optimization and Sport Science. Iztok has published more than 120 research articles in referred journals, conferences and book chapters. Furthermore, he is a member of the Editorial Boards of 5 international journals, including Data in Brief, International Journal of Bio-Inspired Computation, and Associate Editor of Expert Systems with Applications.
+</p>
+<p align="justify">
+He was a founder and first Chair of the ACM Student Chapter Maribor from 2015 - 2016. He is also a member of the IEEE.
 </p>
