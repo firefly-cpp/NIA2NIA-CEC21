@@ -8,17 +8,17 @@ permalink: /paper_submission/
 IEEE CEC 2021 welcomes submissions of original, previously unpublished innovative research in any topic of evolutionary computation. Please read the following paper submission guidelines before submitting your paper. Violation of any of the paper specifications may result in rejection of the paper.
 </p>
 
-## General info:
+### General info:
 <p align="justify">
   <b>Paper submission deadline:</b> 31 January 2021</p>
 <p align="justify">
   <b>Paper length:</b> Each paper must be in PDF form and should have 6 to 8 pages, including figures, tables, and references. A maximum of two extra pages per paper is allowed (i.e, up to 10 pages), at an additional charge of 100 USD (380 PLN) per extra page.</p>
 
-## Templates:
+### Templates:
 <p align="justify">
 To help ensure correct formatting, please use the style files for IEEE Conference Proceedings - U.S. letter size - as <a href="https://www.ieee.org/conferences/publishing/templates.html">templates</a> for your submission (LaTeX or Word).</p>
 
-## Submission:
+### Submission:
 All papers must be submitted through the [IEEE CEC 2021 online submission system](https://ieee-cis.org/conferences/cec2021/upload.php).
 
 <p align="justify">
