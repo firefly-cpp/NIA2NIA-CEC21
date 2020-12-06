@@ -14,5 +14,7 @@ navigation:
     url:
   - title: Important dates
     url: /important-dates
+  - title: Paper Submission
+    url: /paper_submission
   - title: About
     url: /about
