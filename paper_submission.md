@@ -33,7 +33,7 @@ For submitting in the current the Special Session, please select <b>"SS-17. Natu
 <b>Submission of accepted papers:</b> In order for the papers to be included in the congress program and in the proceedings, final accepted papers must be submitted and the corresponding registration fees must be paid by 7 April 2021. Accepted papers must be presented at the conference to be included in the final IEEE Xplore proceedings.</p>
 
 #### Other info:
-<p align="justify" style="font-size:12px">
+<p align="justify" style="font-size:13px">
 <b><i>Confict of Interest:</i></b> Papers co-authored by Special Session Chairs to their own Special Sessions will be handled independently by the Program Chair. Papers co-authored by the General Chairs, Program Chairs and Technical Chairs will be handled by the Conflict of Interest Chair.</p>
-<p align="justify" style="font-size:12px">
+<p align="justify" style="font-size:13px">
 <b><i>Plagiarism policy:</i></b> All papers submitted to IEEE CEC 2021 will be checked for plagiarism.</p>
