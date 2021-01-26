@@ -5,7 +5,7 @@ permalink: /important-dates/
 ---
 
 Deadlines | <td colspan=2>Date<td colspan=2>
---------- | --------------------------------
+-----------------------------------------
 Paper Submission Deadline | ~~31 January 2021~~ | 21 February 2021
 Paper Acceptance Notification | ~~22 March 2021~~ | 6 April 2021
 Final Paper Submission Deadline | ~~7 April 2021~~ | 23 April 2021
