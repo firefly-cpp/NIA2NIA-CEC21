@@ -4,7 +4,7 @@ title: Importand Dates
 permalink: /important-dates/
 ---
 
-Deadlines | <td colspan=2> Date </td>
+Deadlines <td colspan=2> Date </td>
 --------- | ------------------------------
 Paper Submission Deadline | ~~31 January 2021~~ | 21 February 2021
 Paper Acceptance Notification | ~~22 March 2021~~ | 6 April 2021
